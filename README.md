@@ -1,5 +1,5 @@
 # 💫About Me :
- 🔭 I’m currently working on UNIVERSITY Ò SCIENCE AND TECHNLOGY INSTRITUT POLYTECHNIQUE DE DA NANG
+ 🔭 I’m currently working on UNIVERSITY OF SCIENCE AND TECHNLOGY INSTRITUT POLYTECHNIQUE DE DA NANG
 - 🌱 I’m currently learning Machine learning 
 - 🤔 I’m looking for help with Object detection
 - 💬 Ask me about ...
